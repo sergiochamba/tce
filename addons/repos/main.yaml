@@ -4,6 +4,10 @@ packages:
     versions:
       - 0.1.0
       - 0.2.0
+  - name: ako-operator
+    versions:
+      - 1.6.0
+      - 1.5.0
   - name: cartographer
     versions:
       - 0.2.2
